@@ -1,8 +1,8 @@
-name: Alpha
+name: The Sturm Agency
 description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+baseurl: '/'
 
-url: "http://localhost:4000"
+url: "http://mikesturm.net/alpha-jekyll-theme"
 
 paginate: 10
 
