@@ -1224,7 +1224,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/tsa-big.png"), url("../images/tsa-big.png");
+		background-image: url("images/tsa-header.png"), url("../images/tsa-header.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
