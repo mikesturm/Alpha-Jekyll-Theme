@@ -1223,11 +1223,11 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #666;
+		background-color: #ffffff;
 		background-image: url("images/tsa-header.png"), url("../images/tsa-header.png");
 		background-position: center center,						center center;
 		background-repeat: repeat,							no-repeat;
-		background-size: auto,							cover;
+		background-size: contain,							contain;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
@@ -1328,6 +1328,7 @@
 	}
 
 		#footer .icons a {
+			color: #5b2c80;
 			-moz-transition: opacity 0.2s ease-in-out;
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-o-transition: opacity 0.2s ease-in-out;
