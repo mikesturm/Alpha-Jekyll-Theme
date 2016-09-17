@@ -1335,6 +1335,7 @@
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
 			opacity: 0.35;
+			text-decoration: none;
 		}
 
 			#footer .icons a:hover {
