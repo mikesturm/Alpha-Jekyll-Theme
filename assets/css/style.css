@@ -1109,7 +1109,7 @@
 				right: 0;
 			}
 
-		#header.reveal {
+	/*	#header.reveal {
 			-moz-animation: reveal-header 0.5s;
 			-webkit-animation: reveal-header 0.5s;
 			-o-animation: reveal-header 0.5s;
@@ -1155,7 +1155,7 @@
 				#header.alt input[type="button"]:active,
 				#header.alt .button:active {
 					background-color: rgba(255, 255, 255, 0.2);
-				}
+				}    */
 
 	.dropotron {
 		background: #fff;
