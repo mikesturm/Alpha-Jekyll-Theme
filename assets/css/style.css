@@ -1019,8 +1019,9 @@
 
 		#header nav {
 			height: inherit;
+			text-align: center;
 			line-height: inherit;
-			position: absolute;
+			/*position: absolute; */
 			right: 0.75em;
 			top: 0;
 			vertical-align: middle;
@@ -1049,7 +1050,7 @@
 						border-radius: 6px;
 					}
 
-					#header nav > ul > li a:not(.button) {
+					#header ß > ul > li a:not(.button) {
 						color: #fff;
 						display: inline-block;
 						text-decoration: none;
