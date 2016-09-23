@@ -994,7 +994,7 @@
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
-		position: fixed;
+	/*	position: fixed; */
 		top: 0;
 		width: 100%;
 		z-index: 10000;
@@ -1156,7 +1156,14 @@
 				#header.alt .button:active {
 					background-color: rgba(255, 255, 255, 0.2);
 				}    */
-
+				.sticky {
+			    position: fixed;
+			    width: 100%;
+			    left: 0;
+			    top: 0;
+			    z-index: 100;
+			    border-top: 0;
+			  }
 	.dropotron {
 		background: #fff;
 		border-radius: 6px;
