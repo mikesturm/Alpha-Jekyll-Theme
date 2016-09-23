@@ -988,7 +988,7 @@
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: #444;
+	/*	background: #444; */
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
