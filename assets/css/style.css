@@ -1019,7 +1019,7 @@
 
 		#header nav {
 			height: inherit;
-			background: #444;
+			background: #fff;
 			text-align: center;
 			line-height: inherit;
 			/*position: absolute; */
@@ -1047,8 +1047,9 @@
 						display: inline-block;
 						height: 2em;
 						line-height: 1.95em;
+						color: #646464;
 						padding: 0 1em;
-						border-radius: 6px;
+					/*	border-radius: 6px; */
 					}
 
 					#header ß > ul > li a:not(.button) {
