@@ -1096,7 +1096,7 @@
 			#header input[type="reset"]:active,
 			#header input[type="button"]:active,
 			#header .button:active {
-			/*	background-color: rgba(153, 153, 153, 0.5); */
+				background-color: rgba(153, 153, 153, 0.5);
 			}
 
 		#header .container {
