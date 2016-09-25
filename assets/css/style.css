@@ -994,7 +994,7 @@
 		height: 3.25em;
 		left: 0;
 		line-height: 3.25em;
-	/*	position: fixed; */
+		position: fixed;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
@@ -1301,7 +1301,7 @@
 /* Main */
 
 	#main {
-		padding: 4em 0;
+	/*	padding: 4em 0; */
 	}
 
 		#main > header {
