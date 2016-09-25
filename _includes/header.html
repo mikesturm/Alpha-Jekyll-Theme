@@ -29,7 +29,7 @@
 		<script type="text/javascript">
 		$(document).ready(function() {
 			// grab the initial top offset of the navigation
-		   	var stickyNavTop = $('#header nav').offset().top;
+		   	var stickyNavTop = $('#nav').offset().top;
 
 		   	// our function that decides weather the navigation bar should have "fixed" css position or not.
 		   	var stickyNav = function(){
@@ -38,9 +38,9 @@
 			    // if we've scrolled more than the navigation, change its position to fixed to stick to top,
 			    // otherwise change it back to relative
 			    if (scrollTop > stickyNavTop) {
-			        $('#header nav').addClass('sticky');
+			        $('#nav').addClass('sticky');
 			    } else {
-			        $('#header nav').removeClass('sticky');
+			        $('#nav').removeClass('sticky');
 			    }
 			};
 
