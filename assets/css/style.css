@@ -1232,11 +1232,11 @@
 
 #banner {
 	background-attachment: scroll,							fixed;
-	/*background-color: #ffffff;
+	background-color: #ffffff;
 	background-image: url("images/tsa-header.png"), url("../images/tsa-header.png");
-	background-position: center center,						center center;
+	/* background-position: center center,						center center; */
 	background-repeat: repeat,							no-repeat;
-	background-size: contain,							contain;*/
+	background-size: contain,							contain;
 	color: #fff;
 	padding: 12em 0 20em 0;
 	text-align: center;
