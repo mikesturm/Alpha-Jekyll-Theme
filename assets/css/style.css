@@ -1236,7 +1236,7 @@
 	background-attachment: scroll,							fixed;
 	background-color: #ffffff;
 	background-image: url("images/tsa-header.png"), url("../images/tsa-header.png");
-	/* background-position: center center,						center center; */
+	background-position: 50% 13%;
 	background-repeat: repeat,							no-repeat;
 	background-size: contain,							contain;
 	color: #fff;
